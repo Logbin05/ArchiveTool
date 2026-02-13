@@ -1,0 +1,8 @@
+[package]
+name = "archive-tool"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.43"
+rfd = "0.17.2"
